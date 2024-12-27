@@ -5,7 +5,8 @@ export default {
 		'./components/*.astro'
 	],
 	theme: {
-		extend: {},
+		extend: {
+		},
 	},
 	plugins: [],
 }
